@@ -6,6 +6,11 @@ The different tasks can range depending on the weight required, the speed requir
 
 A conveyor belt system consists of two or more pulleys (referred to as drums), with an endless loop of carrying medium – the conveyor belt – that rotates around them creating a pull effect for the goods it’s carrying. One or more of the pulleys will be powered moving the belt and the material on the belt forward and along the system.
 
+## how to operate
+### step 1: Place the object on Conveyor belt surface
+### step 2: Detects object by Infared Proximity sensor
+### step 3: 5 degree of freedom robotic arm will pick from Coveryor belt and place the object in box
+
 ## Sorting 
 Sorting objects, matching shapes, colours and then pictures helps build visual perception and thinking skills. Conveyor belt can generally sort into colours with the help of robotic arm which place the color object in plastic box while black box get rejected from the sensor.
 ## Conveyor belt code
