@@ -13,6 +13,10 @@ A conveyor belt system consists of two or more pulleys (referred to as drums), w
 
 ## Sorting 
 Sorting objects, matching shapes, colours and then pictures helps build visual perception and thinking skills. Conveyor belt can generally sort into colours with the help of robotic arm which place the color object in plastic box while black box get rejected from the sensor.
+
+## Setup diagram 
+![Conveyor Belt Sorting Machine](https://user-images.githubusercontent.com/42414598/137738074-e945771d-6019-403e-9433-66fc1b97b39f.png)
+
 ## Conveyor belt code
 * Step_1 : Setup the robotic arm with arduino connection from digital pins and gripper will connect with Motor driver 
 * Step_2 : Connect the proximity sensor with arduino analog pins and read the analog values
