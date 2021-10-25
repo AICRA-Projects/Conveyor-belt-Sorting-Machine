@@ -17,6 +17,10 @@ Sorting objects, matching shapes, colours and then pictures helps build visual p
 ## Setup diagram 
 ![Conveyor Belt Sorting Machine](https://user-images.githubusercontent.com/42414598/137738074-e945771d-6019-403e-9433-66fc1b97b39f.png)
 
+## Circuit Diagram 
+![Conveyor Belt Sorting Machine Circuit Diagram](https://user-images.githubusercontent.com/42414598/138706925-f5061e9b-e0aa-4412-b4a0-9c5d096544e7.jpg)
+
+
 ## Conveyor belt code
 * Step_1 : Setup the robotic arm with arduino connection from digital pins and gripper will connect with Motor driver 
 * Step_2 : Connect the proximity sensor with arduino analog pins and read the analog values
